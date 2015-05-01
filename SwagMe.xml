@@ -107,9 +107,7 @@
                                                                                                   </block>
                                                                                                 </value>
                                                                                                 <next>
-                                                                                                  <block type="comment_comment" id="255">
-                                                                                                    <field name="TEXT">hi!       :)</field>
-                                                                                                  </block>
+                                                                                                  <block type="movement_stop" id="304"></block>
                                                                                                 </next>
                                                                                               </block>
                                                                                             </next>
